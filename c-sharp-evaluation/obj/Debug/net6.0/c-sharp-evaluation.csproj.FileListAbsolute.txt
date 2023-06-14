@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\bin\Debug\net6.0\c-sharp-evaluation.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\bin\Debug\net6.0\c-sharp-evaluation.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\bin\Debug\net6.0\c-sharp-evaluation.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\bin\Debug\net6.0\c-sharp-evaluation.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\bin\Debug\net6.0\c-sharp-evaluation.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\c-sharp-evaluation.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\c-sharp-evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\c-sharp-evaluation.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\c-sharp-evaluation.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\c-sharp-evaluation.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\c-sharp-evaluation.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\refint\c-sharp-evaluation.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\c-sharp-evaluation.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\c-sharp-evaluation.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-evaluation\c-sharp-evaluation\obj\Debug\net6.0\ref\c-sharp-evaluation.dll
